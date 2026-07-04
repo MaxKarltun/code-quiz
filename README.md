@@ -1,65 +1,40 @@
-# **Code Quiz**
-___________________________________________________________________________________________________________________________________________________________
-![Ss]( https://maxkarltun.github.io/code-quiz/)
+# 🚀 Code Quiz Challenge
 
-___________________________________________________________________________________________________________________________________________________________
-## Table of Contents
-* [Criteria](#overview)
-* [Description](#description)
-* [Installation](#installation)
-* [License](#license)
-* [Features](#features)
-* [How-to-Contribute](#how-to-contribute)
-* [Tests](#tests)
-__________________________________________________________________________________________________________________________________________________________
+Put your coding knowledge to the test in a fast-paced, timed quiz built for aspiring developers.
 
-## Citeria 
+## 🎯 Overview
+Code Quiz Challenge is a browser-based trivia game focused on core web development concepts. Race against the clock, answer questions, and aim for a top score.
 
-* GIVEN quizes are common during an interview, quizmo is a timed event played against other developers.
-* WHEN the start button is clicked by the user, the clock starts ticking as a question appears.
-* WHEN there is an incorrect answer, there is a demerit of time on the clock.
-* WHEN the user answers one question, another appears until all questions are answered or the timer reaches zero.
-* WHEN the game ends, the user can save their initials and score.
-* WHEN there is a highest score, it is stored. 
-* When the user wins the high score, they know they are ready for the job. 
-___________________________________________________________________________________________________________________________________________________________________
-## Description
+## ✨ Features
+- ⏱️ **Timed gameplay** for extra intensity
+- ❌ **Time penalty** for incorrect answers
+- 🔁 **Randomized question order** each round
+- 🏁 **Score submission** with player initials
+- 💾 **High-score ready experience**
 
-* WHEN there is a live URL that loads with no errors, a GitHub URL and a repository with code; the deployment phase is successful.
+## 🕹️ How It Works
+1. Click **Start** to begin the quiz.
+2. Read each question and select the best answer.
+3. Correct answers keep you moving.
+4. Wrong answers subtract time from the clock.
+5. Finish all questions (or run out of time), then submit your initials.
 
-* WHEN the user easily navigates, the interface style is polished, and the application resembles the mock-up; the application has a higher quality.
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
 
-* WHEN the repository name is unique, file structure and code content follows best practice conventions, multiple commits are recorded, and this README includes an image and a link to the deployed application; the repository is complete with a high standard of care. 
-
-____________________________________________________________________________________________________________________________________________________________________
-
-## Installation
-* There are no special installation requirements for this project.
-____________________________________________________________________________________________________________________________________________________________________
-
-## Tech Used
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
-
-
-_________________________________________________________________________________________________________________________________________________________________
-## License
-* Contents are credited as inspired by the bootcamp mentioned above. UM Coding Bootcamp content it primarily MIT license, open source.
-__________________________________________________________________________________________________________________________________________________________________
-
-
-## Links
-link to site 
+## 🌐 Live Demo
 https://karltunmoreno.github.io/code-quiz/
 
-__________________________________________________________________________________________________________________________________________________________________
+## 📁 Repository
+https://github.com/MaxKarltun/code-quiz
 
-## How-to-Contribute
-* Any recommendations?  Please see [contributorCovenant](https://www.contributor-covenant.org)
+## 🤝 Contributing
+Suggestions and improvements are welcome. Feel free to open an issue or submit a pull request.
 
-## Tests
-* There are no tests at this time, we are open to suggestions.
+## 🧪 Tests
+No formal automated tests yet.
 
+## 📄 License
+This project is open source and inspired by coding bootcamp challenge material.
