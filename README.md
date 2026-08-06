@@ -29,8 +29,6 @@ Code Quiz Challenge is a browser-based trivia game focused on core web developme
 - CSS
 - JavaScript
 
-## 🌐 Live Demo
-https://karltunmoreno.github.io/code-quiz/
 
 ## 📁 Repository
 https://github.com/MaxKarltun/code-quiz
