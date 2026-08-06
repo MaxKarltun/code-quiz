@@ -5,6 +5,11 @@ Put your coding knowledge to the test in a fast-paced, timed quiz built for aspi
 ## 🎯 Overview
 Code Quiz Challenge is a browser-based trivia game focused on core web development concepts. Race against the clock, answer questions, and aim for a top score.
 
+
+
+![App Screenshot](tq.png)
+
+
 ## ✨ Features
 - ⏱️ **Timed gameplay** for extra intensity
 - ❌ **Time penalty** for incorrect answers
